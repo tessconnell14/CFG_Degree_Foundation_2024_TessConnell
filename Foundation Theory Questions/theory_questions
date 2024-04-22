@@ -1,1 +1,78 @@
 Q1.1
+A primary key is a unique single identifier for each record in a database table. 
+Primary keys are used to ensure that a specific row or record in a table 
+can be easily retrieved and identified.
+
+A foreign key is a reference to a primary key from another table, the purpose 
+being to link tables and referring to data in another table.
+
+Q1.2
+'Finally' in Python exception handling functions as the final statement after 'try',
+'except' and 'else'. The code block after 'finally' will execute even if an exception 
+is not raised.
+
+'Finally' could be used after opening a connection to a database, checking for 
+exceptions, retrieving data, then closing the connection at the end.
+
+Q1.3
+In git, commit is used to save changes in the local repo from the staging area. 
+A push in git is when you push changes up from your local repo or machine to 
+the remote repo, for example GitHub, so you can collaborate with others.
+
+Q1.4
+Null is a special value that represents the absence of something or 'nothing'.
+Undefined means that the variable has not been assigned a value.
+
+Q1.5
+One example of an API is the Open Weather Map API which functions to retrieve 
+current weather data from somewhere in the world. The user specifies the location, 
+using, for example city name, city id, or coordinates, to make the call (HTTP GET). 
+The API responds with a range of data on current weather conditions, such as 
+temperature, humidity, sea level or wind speed.
+
+Another example of an API is the Twitter API which allows the user to retrieve
+data from Twitter, for example tweets and user profiles. The API also allows
+HTTP POST requests to post a tweet from a Twitter account.
+
+Q1.6
+The Product Owner in Agile development does the following tasks:
+1. Manages and optimises the product backlog (tasks for the development team)
+2. Defines and prioritises user requirements
+3. Define user stories (software features from the perspectives of end users)
+4. Communicate product vision, goals and requirements to product team
+
+Q1.7
+An INNER JOIN joins two tables and returns the rows when there is at least one 
+match in both tables, depending on the join condition. For example, you might execute
+an inner join when you have a table of students and a table of classes, and you
+want to retrieve the list of students enrolled in a particular class.
+
+An OUTER JOIN joins all records from two tables. This might be used to retrieve all
+customer orders from a database that has a table for customers and a table for 
+orders. It is a combination of a LEFT and RIGHT JOIN.
+
+Q1.8
+Mutable data are objects in Python that can be changed after they have been created.
+For example, a list of ages is a mutable data type and can be changed.
+
+Immutable data are objects in Python that cannot be changed after they have been created.
+For example, a tuple of favourite colours is a immutable data type and stays the same 
+after it is created.
+
+Q1.9
+Synchronous functions work sequentially so code is executed in a order, one block after 
+the other.
+
+Asynchronous functions allow code to execute at different times so that the blocks of 
+code do not rely on one another to execute.
+
+Q1.10
+1. Agile works in flexible cycles of iterations, whereas waterfall is sequential and follows
+a step-by-step plan.
+2. Agile seeks feedback from stakeholders during the project, whereas waterfall gets
+feedback at the end.
+3. Agile requires constant risk assessment and testing, whereas waterfall requires heavy
+planning and documentation at the beginning of a project.
+4. Agile assesses user requirements as they shift and move during the project, whereas waterfall
+defines user requirements at the beginning.
+
