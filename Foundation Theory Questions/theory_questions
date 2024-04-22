@@ -11,8 +11,8 @@ Q1.2
 'except' and 'else'. The code block after 'finally' will execute even if an exception 
 is not raised.
 
-'Finally' could be used after opening a connection to a database, checking for 
-exceptions, retrieving data, then closing the connection at the end.
+'Finally' could be used to close a connection to a database, after opening a connection, 
+checking for exceptions, and retrieving data.
 
 Q1.3
 In git, commit is used to save changes in the local repo from the staging area. 
