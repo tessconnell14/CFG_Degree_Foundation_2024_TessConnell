@@ -38,7 +38,7 @@ Q1.6
 The Product Owner in Agile development does the following tasks:
 1. Manages and optimises the product backlog (tasks for the development team)
 2. Defines and prioritises user requirements
-3. Define user stories (software features from the perspectives of end users)
+3. Defines user stories (software features from the perspectives of end users)
 4. Communicate product vision, goals and requirements to product team
 
 Q1.7
@@ -67,12 +67,12 @@ Asynchronous functions allow code to execute at different times so that the bloc
 code do not rely on one another to execute.
 
 Q1.10
-1. Agile works in flexible cycles of iterations, whereas waterfall is sequential and follows
-a step-by-step plan.
-2. Agile seeks feedback from stakeholders during the project, whereas waterfall gets
-feedback at the end.
-3. Agile requires constant risk assessment and testing, whereas waterfall requires heavy
-planning and documentation at the beginning of a project.
+1. Agile works in flexible cycles of iterations, whereas waterfall is sequential and follows a 
+    step-by-step plan.
+2. Agile seeks feedback from stakeholders during the project, whereas waterfall gets feedback 
+    at the end.
+3. Agile requires constant risk assessment and testing, whereas waterfall requires heavy 
+    planning and documentation at the beginning of a project.
 4. Agile assesses user requirements as they shift and move during the project, whereas waterfall
-defines user requirements at the beginning.
+    defines user requirements at the beginning.
 
