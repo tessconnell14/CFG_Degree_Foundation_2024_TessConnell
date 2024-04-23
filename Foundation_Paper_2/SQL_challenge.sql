@@ -20,7 +20,17 @@ ORDER BY p.clean_price;
 -- Qu 4: Most expensive
 CREATE PROCEDURE RetrieveMostExpensiveInCity()
 BEGIN
-	DECLARE 
+	DECLARE max_price INT;
+    
+    SELECT MAX(clean_price) INTO max_price
+    FROM properties
+    
+    SELECT max_price;
+END //
+
+DELIMITER ;
+
+CALL RetrieveMostExpensiveInCity()
     
 -- Qu 5: Lowest rated
 SELECT p.property_name, AVG(r.score) AS average_review
