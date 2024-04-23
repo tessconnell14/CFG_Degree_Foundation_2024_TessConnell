@@ -1,21 +1,21 @@
 Q1.1
-A primary key is a unique single identifier for each record in a database table. 
+A primary key is a unique, single identifier for each record in a database table. 
 Primary keys are used to ensure that a specific row or record in a table 
-can be easily retrieved and identified.
+can easily be identified and retrieved.
 
-A foreign key is a reference to a primary key from another table, the purpose 
-being to link tables and referring to data in another table.
+A foreign key is a reference to a primary key from another table, used to link 
+tables and refer to data in another table.
 
 Q1.2
-'Finally' in Python exception handling functions as the final statement after 'try',
-'except' and 'else'. The code block after 'finally' will execute even if an exception 
+'Finally' in Python exception handling is the final statement after 'try', 'except' 
+and 'else'. The code block after 'finally' will execute even if an exception 
 is not raised.
 
 'Finally' could be used to close a connection to a database, after opening a connection, 
-checking for exceptions, and retrieving data.
+checking for exceptions, and retrieving data/making calls.
 
 Q1.3
-In git, commit is used to save changes in the local repo from the staging area. 
+In git, commit is used to save changes in the local repository from the staging area. 
 A push in git is when you push changes up from your local repo or machine to 
 the remote repo, for example GitHub, so you can collaborate with others.
 
@@ -31,23 +31,23 @@ The API responds with a range of data on current weather conditions, such as
 temperature, humidity, sea level or wind speed.
 
 Another example of an API is the Twitter API which allows the user to retrieve
-data from Twitter, for example tweets and user profiles. The API also allows
+data from Twitter, for example user profiles and tweets. The API also allows
 HTTP POST requests to post a tweet from a Twitter account.
 
 Q1.6
 The Product Owner in Agile development does the following tasks:
-1. Manages and optimises the product backlog (tasks for the development team)
-2. Defines and prioritises user requirements
-3. Defines user stories (software features from the perspectives of end users)
-4. Communicate product vision, goals and requirements to product team
+1. Manages and optimises the product backlog
+2. Communicates product vision, goals and requirements to product team
+3. Defines and prioritises user requirements
+4. Defines user stories (software features from the perspectives of end users)
 
 Q1.7
-An INNER JOIN joins two tables and returns the rows when there is at least one 
+An INNER JOIN joins two tables and returns the rows where there is at least one 
 match in both tables, depending on the join condition. For example, you might execute
 an inner join when you have a table of students and a table of classes, and you
-want to retrieve the list of students enrolled in a particular class.
+want to retrieve a list of students enrolled in a particular class.
 
-An OUTER JOIN joins all records from two tables. This might be used to retrieve all
+An OUTER JOIN returns all records from two tables. This might be used to retrieve all
 customer orders from a database that has a table for customers and a table for 
 orders. It is a combination of a LEFT and RIGHT JOIN.
 
@@ -67,12 +67,12 @@ Asynchronous functions allow code to execute at different times so that the bloc
 code do not rely on one another to execute.
 
 Q1.10
-1. Agile works in flexible cycles of iterations, whereas waterfall is sequential and follows a 
-    step-by-step plan.
-2. Agile seeks feedback from stakeholders during the project, whereas waterfall gets feedback 
-    at the end.
+1. Agile works in flexible cycles of iterations, whereas waterfall is sequential and 
+    follows a step-by-step plan.
+2. Agile seeks feedback from stakeholders during the project, whereas waterfall gets 
+    feedback at the end.
 3. Agile requires constant risk assessment and testing, whereas waterfall requires heavy 
     planning and documentation at the beginning of a project.
-4. Agile assesses user requirements as they shift and move during the project, whereas waterfall
-    defines user requirements at the beginning.
+4. Agile assesses user requirements as they shift and move during the project, whereas 
+    waterfall defines user requirements at the beginning.
 
