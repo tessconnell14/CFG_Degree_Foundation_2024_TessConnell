@@ -1,0 +1,27 @@
+Q1.
+1. The if loop requires a colon at the end of the line
+2. The print function requires the format method to successfully print the 
+    max number
+3. The operator is the wrong way; it is checking if the num is smaller than
+    the max_num
+4. The return statement needs to be indented in line with the for loop
+5. The list of numbers need to be within square brackets
+6. The list of numbers and print() should be after two lines
+
+Code:
+def find_max(numbers):
+    max_num = numbers[0]
+    for num in numbers:
+        if num > max_num:
+            max_num = num
+    return max_num
+
+
+numbers = [3, 7, 2, 9, 5]
+print("Max num is: {}".format(find_max(numbers)))
+
+Q2. This is a good attempt to find a solution to the given problem. To continue
+    on your coding journey please make sure you check your syntax and that you are
+    familiar with different Python objects, e.g lists, tuples, sets. Also, 
+    be careful of your indentation and read the errors in your environment when
+    coding.
