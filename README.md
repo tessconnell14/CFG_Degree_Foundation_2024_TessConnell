@@ -2,10 +2,15 @@
 My submission for the CFG Degree exam (Spring)
 
 **Includes:**
-- Multiple choice questions
-- Coding evaluation questions
-- Coding challenge 1 (Python)
-- Coding challenge 2 (MySQL)
-- SQL script for DB
+- Theory questions
+- Paper 1 (Python)
+  - Multi-choice
+  - Coding evaluation
+  - Coding challenge
+- Paper 2 (SQL)
+  - Multi-choice
+  - Coding evaluation
+  - Coding challenge
+  - SQL script for DB
 
 Thanks! 💛 💻 🧡
