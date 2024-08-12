@@ -1,5 +1,5 @@
 # CFG_Degree_Foundation_2024_TessConnell
-My submission for the CFG Degree exam (Spring)
+My submission for the CFG Degree exam (Spring '24)
 
 **Includes:**
 - Theory questions
